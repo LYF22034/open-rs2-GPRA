@@ -1,6 +1,6 @@
 # **GPRA**: Enhancing Small Model **Reasoning** Under Resource Constraints via LoRA Policy Optimization with Implicit Process Rewards
 
-**Yifan Li**
+**Yifan Li, Lee Nara, Chengzhi Zhang, Fandi Meng, Ruiqi Zhu**
 
 Nanyang Technological University
 
